@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=random&height=300&section=header&text=DoHyung's%20GitHub)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjp229&layout=compact&theme=vue)﻿
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjp229&layout=compact&theme=vue&card_height=750&card_width=430)﻿
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjp229&show_icons=true&theme=vue)
 
 <h3>🌱 What I can do</h3>
