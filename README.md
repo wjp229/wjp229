@@ -2,6 +2,8 @@
 
 🌱 What I can DO
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjp229&show_icons=true&theme=radical)
+
 <Languages>
  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
  <img src="https://img.shields.io/badge/CSharp-239120?style=flat&logo=csharp&logoColor=white"/>
