@@ -18,7 +18,7 @@
 
  <h3>🌱 You can find my information on </h3>
  
-[My Portfolio](https://kdh229.notion.site/About-DoHyung-Kim-d6aa33b20af14579b8c4666ea5abe429?pvs=4)
+[Do Hyung Kim's Portfolio](https://kdh229.notion.site/About-DoHyung-Kim-d6aa33b20af14579b8c4666ea5abe429?pvs=4)
  </div>
  
 <!--
