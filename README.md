@@ -16,7 +16,7 @@
  &nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unrealengine&logoColor=black"/>
 
- <h3>🌱 You can find my information on </h3>
+ <h3>😄 You can find my information on </h3>
  
 [Do Hyung Kim's Portfolio](https://kdh229.notion.site/About-DoHyung-Kim-d6aa33b20af14579b8c4666ea5abe429?pvs=4)
  </div>
