@@ -2,8 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=DoHyung's%20GitHub)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjp229&layout=compact&theme=vue&card_height=750&card_width=430)﻿
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjp229&show_icons=true&theme=vue&card_width=430)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjp229&layout=compact&theme=vue&card_height=750&card_width=350)﻿
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjp229&show_icons=true&theme=vue&card_width=350)
 
 <h3>🌱 What I can do</h3>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
