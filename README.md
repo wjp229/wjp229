@@ -2,7 +2,7 @@
 
 🌱 What I can DO
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjp229&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjp229&show_icons=true&theme=vue)
 
 <Languages>
  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
