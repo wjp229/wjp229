@@ -4,16 +4,18 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjp229&show_icons=true&theme=vue)
 
 <div align = "center">
-<h3>🌱 What I can Do</h3>
+<h3>🌱 What I can do</h3>
  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/>
 
  <img src="https://img.shields.io/badge/Unreal-0E1128?style=flat&logo=unrealengine&logoColor=white"/>
  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unrealengine&logoColor=black"/>
 
- <h3>🌱 You cand find my Information On </h3>
+ <h3>🌱 You can find my information on </h3>
+ 
 - [My Portfolio](https://kdh229.notion.site/About-DoHyung-Kim-d6aa33b20af14579b8c4666ea5abe429?pvs=4)
  </div>
+ 
 <!--
 **wjp229/wjp229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
